@@ -5,13 +5,13 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'STONK-USDC',
+    lpSymbol: 'NYX-USDC',
     lpAddresses: {
       97: '',
       56: '',
-      137: '0xf8B95faA6745f0712CEe7bb99909F16D7696206D', // STONK - USDC
+      137: '0xf8B95faA6745f0712CEe7bb99909F16D7696206D', // NYX - USDC
     },
-    tokenSymbol: 'STONK',
+    tokenSymbol: 'NYX',
     tokenAddresses: {
       97: '',
       56: '',
@@ -24,13 +24,13 @@ const farms: FarmConfig[] = [
     pid: 9,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'STONK',
+    lpSymbol: 'NYX',
     lpAddresses: {
       97: '',
       56: '',
-      137: '0xf8B95faA6745f0712CEe7bb99909F16D7696206D', // STONK - USDC
+      137: '0xf8B95faA6745f0712CEe7bb99909F16D7696206D', // NYX - USDC
     },
-    tokenSymbol: 'STONK',
+    tokenSymbol: 'NYX',
     tokenAddresses: {
       97: '',
       56: '',
