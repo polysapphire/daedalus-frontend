@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Flex, Heading, Text } from '@polydaedalus/uikit'
+import { Flex, Heading, Text } from 'daedalusfinance'
 
 interface HeadingProps {
   valueToDisplay?: string

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, Modal } from '@polydaedalus/uikit'
+import { Button, Modal } from 'daedalusfinance'
 import ModalActions from 'components/ModalActions'
 import styled from 'styled-components'
 import useI18n from 'hooks/useI18n'

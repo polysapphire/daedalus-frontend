@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { ChevronDownIcon, Text } from '@polydaedalus/uikit'
+import { ChevronDownIcon, Text } from 'daedalusfinance'
 
 export interface DetailsButtonProps {
   onClick?: () => void

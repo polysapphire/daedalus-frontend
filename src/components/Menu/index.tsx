@@ -4,7 +4,7 @@ import { allLanguages } from 'config/localisation/languageCodes'
 import { LanguageContext } from 'contexts/Localisation/languageContext'
 import useTheme from 'hooks/useTheme'
 import { usePriceCakeBusd } from 'state/hooks'
-import { Menu as UikitMenu } from '@polydaedalus/uikit'
+import { Menu as UikitMenu } from 'daedalusfinance'
 import config from './config'
 
 const Menu = (props) => {

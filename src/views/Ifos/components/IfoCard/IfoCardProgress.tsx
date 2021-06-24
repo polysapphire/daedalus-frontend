@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Progress } from '@polydaedalus/uikit'
+import { Progress } from 'daedalusfinance'
 
 interface IfoCardProgressProps {
   progress: number

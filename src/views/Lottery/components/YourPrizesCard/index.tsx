@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Card, CardBody } from '@polydaedalus/uikit'
+import { Card, CardBody } from 'daedalusfinance'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { useTotalClaim } from 'hooks/useTickets'
 import PrizesWonContent from './PrizesWonContent'

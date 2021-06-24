@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@polydaedalus/uikit'
+import { Text } from 'daedalusfinance'
 import { getBalanceNumber } from 'utils/formatBalance'
 import { useTotalRewards } from 'hooks/useTickets'
 

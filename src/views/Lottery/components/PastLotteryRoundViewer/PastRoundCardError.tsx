@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@polydaedalus/uikit'
+import { Text } from 'daedalusfinance'
 
 interface PastRoundCardErrorProps {
   error: {

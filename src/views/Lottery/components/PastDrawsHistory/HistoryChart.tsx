@@ -1,6 +1,6 @@
 import React, { lazy, Suspense, useContext } from 'react'
 import styled from 'styled-components'
-import { Text } from '@polydaedalus/uikit'
+import { Text } from 'daedalusfinance'
 import PastLotteryDataContext from 'contexts/PastLotteryDataContext'
 import Loading from '../Loading'
 

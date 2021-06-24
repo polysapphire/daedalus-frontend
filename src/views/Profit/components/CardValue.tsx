@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import { useCountUp } from 'react-countup'
-import { Text } from '@polydaedalus/uikit'
+import { Text } from 'daedalusfinance'
 
 interface CardValueProps {
   value: number

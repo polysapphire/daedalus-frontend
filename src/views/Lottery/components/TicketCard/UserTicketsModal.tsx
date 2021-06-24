@@ -1,5 +1,5 @@
 import React, { useCallback } from 'react'
-import { Button, Modal } from '@polydaedalus/uikit'
+import { Button, Modal } from 'daedalusfinance'
 import styled from 'styled-components'
 import { useWinningNumbers } from 'hooks/useTickets'
 import useI18n from 'hooks/useI18n'

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Heading, Card, CardBody } from '@polydaedalus/uikit'
+import { Heading, Card, CardBody } from 'daedalusfinance'
 import useI18n from 'hooks/useI18n'
 import HistoryChart from './HistoryChart'
 import Legend from './Legend'

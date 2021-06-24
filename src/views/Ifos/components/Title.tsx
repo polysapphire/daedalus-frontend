@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { Heading } from '@polydaedalus/uikit'
+import { Heading } from 'daedalusfinance'
 
 const Title = styled(Heading).attrs({ size: 'lg' })`
   color: ${({ theme }) => theme.colors.secondary};

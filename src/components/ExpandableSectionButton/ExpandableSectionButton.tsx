@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { ChevronDownIcon, ChevronUpIcon, Text } from '@polydaedalus/uikit'
+import { ChevronDownIcon, ChevronUpIcon, Text } from 'daedalusfinance'
 
 export interface ExpandableSectionButtonProps {
   onClick?: () => void

@@ -1,5 +1,5 @@
 import React from 'react'
-import { Tag, VerifiedIcon, CommunityIcon, BinanceIcon } from '@polydaedalus/uikit'
+import { Tag, VerifiedIcon, CommunityIcon, BinanceIcon } from 'daedalusfinance'
 
 const NoFeeTag = () => (
   <Tag variant="success" outline startIcon={<VerifiedIcon />}>

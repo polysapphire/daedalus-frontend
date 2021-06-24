@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { BaseLayout } from '@polydaedalus/uikit'
+import { BaseLayout } from 'daedalusfinance'
 
 const NftGrid = styled(BaseLayout)`
   padding-bottom: 24px;

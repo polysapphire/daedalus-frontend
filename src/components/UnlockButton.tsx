@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, useWalletModal } from '@polydaedalus/uikit'
+import { Button, useWalletModal } from 'daedalusfinance'
 import { useWallet } from '@binance-chain/bsc-use-wallet'
 import useI18n from 'hooks/useI18n'
 

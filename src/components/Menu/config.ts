@@ -1,4 +1,4 @@
-import { MenuEntry } from '@polydaedalus/uikit'
+import { MenuEntry } from 'daedalusfinance'
 
 const config: MenuEntry[] = [
   {

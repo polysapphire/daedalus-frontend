@@ -1,6 +1,6 @@
 import React from 'react'
 import BigNumber from 'bignumber.js'
-import { CalculateIcon, IconButton, useModal } from '@polydaedalus/uikit'
+import { CalculateIcon, IconButton, useModal } from 'daedalusfinance'
 import { Address } from 'config/constants/types'
 import ApyCalculatorModal from './ApyCalculatorModal'
 
