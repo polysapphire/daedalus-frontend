@@ -55,7 +55,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Docs',
-        href: 'https://polydaedalus.gitbook.io/gameswap/',
+        href: 'https://platinum-finance.gitbook.io/platinum-finance/',
       },
       {
         label: 'Medium',
