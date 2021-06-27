@@ -9,7 +9,7 @@ export interface Farm extends FarmConfig {
   tokenPriceVsQuote?: BigNumber
   poolWeight?: number
   depositFeeBP?: number
-  nyxPerBlock?: number
+  platinPerBlock?: number
   userData?: {
     allowance: BigNumber
     tokenBalance: BigNumber

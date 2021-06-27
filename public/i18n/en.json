@@ -75,7 +75,7 @@
     {
       "data": {
         "stringId": 304,
-        "text": "Total Nyx burned since launch"
+        "text": "Total platin burned since launch"
       }
     },
     {
@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn Nyx"
+        "text": "Stake LP tokens to earn platin"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake Nyx, get SYRUP."
+        "text": "Stake platin, get SYRUP."
       }
     },
     {
@@ -153,7 +153,7 @@
     {
       "data": {
         "stringId": 334,
-        "text": "Every time you stake and unstake Nyx tokens, the contract will automatically harvest Nyx rewards for you!"
+        "text": "Every time you stake and unstake platin tokens, the contract will automatically harvest platin rewards for you!"
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Nyx price"
+        "text": "platin price"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 Nyx = 1 SYRUP"
+        "text": "1 platin = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of Nyx block emissions each day (10 Nyx per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of platin block emissions each day (10 platin per block), Rewards are distributed each block."
       }
     },
     {
@@ -357,13 +357,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% Nyx"
+        "text": "%num% platin"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend Nyx to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend platin to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -441,19 +441,19 @@
     {
       "data": {
         "stringId": 454,
-        "text": "%num% Nyx Available"
+        "text": "%num% platin Available"
       }
     },
     {
       "data": {
         "stringId": 456,
-        "text": "Your amount must be a multiple of 10 Nyx"
+        "text": "Your amount must be a multiple of 10 platin"
       }
     },
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 Nyx"
+        "text": "1 Ticket = 10 platin"
       }
     },
     {
@@ -501,7 +501,7 @@
     {
       "data": {
         "stringId": 478,
-        "text": "Ticket purchases are final. Your Nyx cannot be returned to you after buying tickets."
+        "text": "Ticket purchases are final. Your platin cannot be returned to you after buying tickets."
       }
     },
     {
@@ -513,7 +513,7 @@
     {
       "data": {
         "stringId": 482,
-        "text": "Nyx prizes to be claimed"
+        "text": "platin prizes to be claimed"
       }
     },
     {
@@ -549,13 +549,13 @@
     {
       "data": {
         "stringId": 494,
-        "text": "Approve Nyx"
+        "text": "Approve platin"
       }
     },
     {
       "data": {
         "stringId": 496,
-        "text": "SYRUP holders proportionally split 40% of Nyx block emissions each day (10 Nyx per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 40% of platin block emissions each day (10 platin per block), Rewards are distributed each block."
       }
     },
     {
@@ -573,19 +573,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using Nyx-BNB LP tokens, which means you need to stake equal amounts of Nyx and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using platin-BNB LP tokens, which means you need to stake equal amounts of platin and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get Nyx-BNB LP >"
+        "text": "Get platin-BNB LP >"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, Goose Finance burns the Nyx."
+        "text": "The project gets the BNB, Goose Finance burns the platin."
       }
     },
     {
@@ -651,7 +651,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "Nyx Stats"
+        "text": "platin Stats"
       }
     },
     {
@@ -669,7 +669,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New Nyx\/block"
+        "text": "New platin\/block"
       }
     },
     {
@@ -681,19 +681,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "Nyx to Harvest"
+        "text": "platin to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "Nyx in Wallet"
+        "text": "platin in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting Nyx"
+        "text": "Collecting platin"
       }
     },
     {
@@ -705,7 +705,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "Nyx to Collect"
+        "text": "platin to Collect"
       }
     },
     {
@@ -759,7 +759,7 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Daedalus Finance"
+        "text": "Platinum Finance"
       }
     },
     {
@@ -771,7 +771,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake Nyx to earn new tokens."
+        "text": "Stake platin to earn new tokens."
       }
     },
     {
@@ -789,7 +789,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "Nyx to burn (USD)"
+        "text": "platin to burn (USD)"
       }
     },
     {
@@ -801,7 +801,7 @@
     {
       "data": {
         "stringId": 590,
-        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest Nyx rewards for you!"
+        "text": "\u2b50\ufe0f Every time you stake and unstake LP tokens, the contract will automatically harvest platin rewards for you!"
       }
     },
     {
@@ -819,13 +819,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy Nyx and BNB tokens"
+        "text": "Buy platin and BNB tokens"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get Nyx-BNB LP tokens by adding Nyx and BNB liquidity"
+        "text": "Get platin-BNB LP tokens by adding platin and BNB liquidity"
       }
     },
     {
@@ -837,7 +837,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your Nyx-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your platin-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -873,7 +873,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for Nyx, or keep for your collection!"
+        "text": "Trade in for platin, or keep for your collection!"
       }
     },
     {
@@ -915,7 +915,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive Nyx, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive platin, you will lose access to it forever!"
       }
     },
     {
@@ -945,7 +945,7 @@
     {
       "data": {
         "stringId": 638,
-        "text": "Winners can trade in their NFTs for a Nyx value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
+        "text": "Winners can trade in their NFTs for a platin value until the expiry date written below. If you don't trade in your NFT by then, don\u2019t worry: you\u2019ll still keep it in your wallet!"
       }
     },
     {
@@ -987,7 +987,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for Nyx"
+        "text": "Trade in for platin"
       }
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP tokens to earn Nyx"
+        "text": "Stake LP tokens to earn platin"
       }
     },
     {
@@ -1155,13 +1155,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The Nyx Lottery"
+        "text": "The platin Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with Nyx"
+        "text": "Buy tickets with platin"
       }
     },
     {
@@ -1227,7 +1227,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn Nyx"
+        "text": "Stake tokens to earn platin"
       }
     },
     {

@@ -75,12 +75,11 @@ const Farm: React.FC = () => {
             {TranslateString(282, 'Profit Sharing Pool')}
           </Heading>
           <ul>
-            <li>Stake NYX to receive dividend payouts.</li>
+            <li>Stake platin to receive dividend payouts.</li>
             <li>You can unstake at any time.</li>
             <li>Let us know which dividend pools you would like next!</li>
           </ul>
         </div>
-        <img src="/images/syrup.png" alt="SYRUP POOL icon" width={410} height={191} />
       </Hero>
       <CakeStats />
       <br />

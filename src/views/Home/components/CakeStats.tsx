@@ -10,6 +10,9 @@ import CardValue from './CardValue'
 import { useFarms, usePriceCakeBusd } from '../../../state/hooks'
 
 const StyledCakeStats = styled(Card)`
+  background-image: url('/images/egg/2a.png');
+  background-repeat: no-repeat;
+  background-position: top right;
   margin-left: auto;
   margin-right: auto;
 `
@@ -27,21 +30,21 @@ const CakeStats = () => {
   const totalSupply = useTotalSupply()
   const burnedBalance = useBurnedBalance(getCakeAddress())
   const farms = useFarms()
-  const nyxPrice = usePriceCakeBusd()
+  const platinPrice = usePriceCakeBusd()
   const circSupply = totalSupply ? totalSupply.minus(burnedBalance) : new BigNumber(0)
   const cakeSupply = getBalanceNumber(circSupply)
-  const marketCap = nyxPrice.times(circSupply)
+  const marketCap = platinPrice.times(circSupply)
 
-  let nyxPerBlock = 0
-  if (farms && farms[0] && farms[0].nyxPerBlock) {
-    nyxPerBlock = new BigNumber(farms[0].nyxPerBlock).div(new BigNumber(10).pow(18)).toNumber()
+  let platinPerBlock = 0
+  if (farms && farms[0] && farms[0].platinPerBlock) {
+    platinPerBlock = new BigNumber(farms[0].platinPerBlock).div(new BigNumber(10).pow(18)).toNumber()
   }
 
   return (
     <StyledCakeStats>
       <CardBody>
         <Heading size="xl" mb="24px">
-          {TranslateString(534, 'Nyx Stats')}
+          {TranslateString(534, 'platin Stats')}
         </Heading>
         <Row>
           <Text fontSize="14px">{TranslateString(10005, 'Market Cap')}</Text>
@@ -60,9 +63,9 @@ const CakeStats = () => {
           {cakeSupply && <CardValue fontSize="14px" value={cakeSupply} decimals={0} />}
         </Row>
         <Row>
-          <Text fontSize="14px">{TranslateString(540, 'New NYX/block')}</Text>
+          <Text fontSize="14px">{TranslateString(540, 'New platin/block')}</Text>
           <Text bold fontSize="14px">
-            {nyxPerBlock}
+            {platinPerBlock}
           </Text>
         </Row>
       </CardBody>
