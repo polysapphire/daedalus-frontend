@@ -10,9 +10,6 @@ import CardValue from './CardValue'
 import { useFarms, usePriceCakeBusd } from '../../../state/hooks'
 
 const StyledCakeStats = styled(Card)`
-  background-image: url('/images/egg/2a.png');
-  background-repeat: no-repeat;
-  background-position: top right;
   margin-left: auto;
   margin-right: auto;
 `
