@@ -55,7 +55,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Docs',
-        href: 'https://platinum-finance.gitbook.io/platinum-finance/',
+        href: 'https://SAPHum-finance.gitbook.io/SAPHum-finance/',
       },
       {
         label: 'Medium',

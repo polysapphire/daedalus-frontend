@@ -27,21 +27,21 @@ const CakeStats = () => {
   const totalSupply = useTotalSupply()
   const burnedBalance = useBurnedBalance(getCakeAddress())
   const farms = useFarms()
-  const platinPrice = usePriceCakeBusd()
+  const SAPHPrice = usePriceCakeBusd()
   const circSupply = totalSupply ? totalSupply.minus(burnedBalance) : new BigNumber(0)
   const cakeSupply = getBalanceNumber(circSupply)
-  const marketCap = platinPrice.times(circSupply)
+  const marketCap = SAPHPrice.times(circSupply)
 
-  let platinPerBlock = 0
-  if (farms && farms[0] && farms[0].platinPerBlock) {
-    platinPerBlock = new BigNumber(farms[0].platinPerBlock).div(new BigNumber(10).pow(18)).toNumber()
+  let SAPHPerBlock = 0
+  if (farms && farms[0] && farms[0].SAPHPerBlock) {
+    SAPHPerBlock = new BigNumber(farms[0].SAPHPerBlock).div(new BigNumber(10).pow(18)).toNumber()
   }
 
   return (
     <StyledCakeStats>
       <CardBody>
         <Heading size="xl" mb="24px">
-          {TranslateString(534, 'platin Stats')}
+          {TranslateString(534, 'SAPH Stats')}
         </Heading>
         <Row>
           <Text fontSize="14px">{TranslateString(10005, 'Market Cap')}</Text>
@@ -60,9 +60,9 @@ const CakeStats = () => {
           {cakeSupply && <CardValue fontSize="14px" value={cakeSupply} decimals={0} />}
         </Row>
         <Row>
-          <Text fontSize="14px">{TranslateString(540, 'New platin/block')}</Text>
+          <Text fontSize="14px">{TranslateString(540, 'New SAPH/block')}</Text>
           <Text bold fontSize="14px">
-            {platinPerBlock}
+            {SAPHPerBlock}
           </Text>
         </Row>
       </CardBody>

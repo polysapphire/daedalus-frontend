@@ -75,7 +75,7 @@ const Farm: React.FC = () => {
             {TranslateString(282, 'Profit Sharing Pool')}
           </Heading>
           <ul>
-            <li>Stake platin to receive dividend payouts.</li>
+            <li>Stake SAPH to receive dividend payouts.</li>
             <li>You can unstake at any time.</li>
             <li>Let us know which dividend pools you would like next!</li>
           </ul>

@@ -5,13 +5,13 @@ const farms: FarmConfig[] = [
   {
     pid: 0,
     risk: 5,
-    lpSymbol: 'platin-USDC',
+    lpSymbol: 'SAPH-USDC',
     lpAddresses: {
       97: '',
       56: '',
-      137: '0xf8B95faA6745f0712CEe7bb99909F16D7696206D', // platin - USDC
+      137: '0xf8B95faA6745f0712CEe7bb99909F16D7696206D', // SAPH - USDC
     },
-    tokenSymbol: 'platin',
+    tokenSymbol: 'SAPH',
     tokenAddresses: {
       97: '',
       56: '',
@@ -24,13 +24,13 @@ const farms: FarmConfig[] = [
     pid: 9,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'platin',
+    lpSymbol: 'SAPH',
     lpAddresses: {
       97: '',
       56: '',
-      137: '0xf8B95faA6745f0712CEe7bb99909F16D7696206D', // platin - USDC
+      137: '0xf8B95faA6745f0712CEe7bb99909F16D7696206D', // SAPH - USDC
     },
-    tokenSymbol: 'platin',
+    tokenSymbol: 'SAPH',
     tokenAddresses: {
       97: '',
       56: '',

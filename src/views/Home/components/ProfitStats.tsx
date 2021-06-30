@@ -29,9 +29,9 @@ const ProfitStats = () => {
   const block = useBlock()
 
 
-  let platinPerBlock = 0
-  if (farms && farms[0] && farms[0].platinPerBlock) {
-    platinPerBlock = new BigNumber(farms[0].platinPerBlock).div(new BigNumber(10).pow(18)).toNumber()
+  let SAPHPerBlock = 0
+  if (farms && farms[0] && farms[0].SAPHPerBlock) {
+    SAPHPerBlock = new BigNumber(farms[0].SAPHPerBlock).div(new BigNumber(10).pow(18)).toNumber()
   }
 
   return (
